@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Django and Channels
+Django==6.0.1
+channels==4.0.0
+channels_redis==4.0.0
+
+# REST Framework and JWT Authentication
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+
+# CORS and CSRF handling
+django-cors-headers==4.0.0
